@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @miadbadamaki
-- 👀 I’m interested in django and web design 
-- 🌱 I’m currently learning django, html, css
-- 💞️ I’m looking to collaborate on django and i would be happy if anyone wants to learn django with me
-- 📫 How to reach me https://t.me/eydonyaa in telegram and send your emails to mbadamaki30@gmail.com
+- 👀 I’m interested in Android developing 
+- 🌱 I’m currently learning Android
+- 💞️ I’m looking to collaborate on Kotlin and i would be happy if anyone wants to learn Kotlin with me
+- 📫 How to reach me @Miaadbadamaki in telegram and send your emails to mbadamaki31@gmail.com
   
   
 
